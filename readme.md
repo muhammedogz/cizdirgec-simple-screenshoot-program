@@ -8,6 +8,14 @@ Program, akıllı tahta uygulaması olarak, geliştirilmek üzere yola çıkılm
 Programda amaç, ekran görüntüsünü alarak, üzerine yazı yazmayı gerçekleştirmektir.
 
 
+
+## Ozellikler 
+
+- Programi calistirip istediginiz bolgenin ekran ciktisini alabilme
+- Alınan ekran bölümüne istediğinizi çizme
+- Çizilen hali kaydetme
+- Sağ tık ile çizilen alanı temizleme
+
 ## Nasil Calistirilir
 
 - Pardus uzerindeki xfce4-screenshooter terminal uygulamasını kullanır.
@@ -33,4 +41,5 @@ Bu komutları kullanarak, programı calistirabilirsiniz.
 - Diğer linxu dağıtımları için daha farklı programlar kullanılması hedeflenmektedir
 - UI geliştirlecektir.
 - Daha efektif ekran görüntüsü alma amaçlanmaktadır.
-
+- Daha fazla renk ve kalem boyutu eklenecektir
+- Daha efektif kalem kullanımı hedeflenmektedir
