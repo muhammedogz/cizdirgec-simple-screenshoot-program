@@ -1,13 +1,11 @@
-from __future__ import division
 import gi
 import os
-import math
+from pencere import *
 
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk, Gdk, GdkPixbuf
 import cairo
 
-import pencere
 
 
 class PaintArea(Gtk.Frame):
